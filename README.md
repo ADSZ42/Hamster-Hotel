@@ -1,9 +1,15 @@
 # Hamster-Hotel
 
 Anthony Duran
-###Hamster Hotel###
+11/1/2024  Challenge#4 Hamster Hotel
+
+Peer Reviewed By:
 
 ____________________________________________________________________________________________________________
+
+### Title: **Hamster Hotel**
+
+In this project, you will take the following mockup and make it into a fully functioning website using bootstrap.
 
 This Project will be added to your Git Repository 
 
