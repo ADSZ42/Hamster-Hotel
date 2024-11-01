@@ -149,14 +149,12 @@
     opacity: 1;
     margin-top: 10px;
     padding-top: 20px;
-    padding-bottom: 30px;
 }
 
 .container6{
     width: 100%;
     opacity: 1;
     padding-top: 40px;
-    padding-bottom: 60px;
 }
 
 .reducesiz{
@@ -165,4 +163,13 @@
 
 .btext{
     font-size: 12px;
+}
+
+.newsiz{
+    padding-top: 10px;
+    max-width: 100%;
+    height: 60%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
