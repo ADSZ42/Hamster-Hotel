@@ -5,6 +5,11 @@
 .wclr{
     color: white;
 }
+
+.blulr{
+    color: blue;
+}
+
 .pdwc{
     margin-top: 70px;
 }
@@ -16,7 +21,6 @@
     color: white;
     background-color: blue
 }
-
 
 .ctr1{
     background-image: url(../Assets/header.jpg);
@@ -129,4 +133,36 @@
     display: flex;
     margin-left: auto;
     margin-right: auto;
+}
+
+.container4{
+    left: 0px;
+    width: 100%;
+    opacity: 1;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.container5{
+    background-color: #080424;
+    width: 65%;
+    opacity: 1;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.container6{
+    width: 100%;
+    opacity: 1;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+.reducesiz{
+    width: 85%;
+}
+
+.btext{
+    font-size: 12px;
 }
