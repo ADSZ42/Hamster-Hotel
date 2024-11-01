@@ -3,7 +3,9 @@
 Anthony Duran
 11/1/2024  Challenge#4 Hamster Hotel
 
-Peer Reviewed By:
+Peer Reviewed By: Chainarung Nathan Dechyothin
+
+Comment: The desktop version is nearly identical to the prototype—great job on that! However, the responsiveness could use some improvement. It starts to shift at the tablet view and then completely breaks on mobile. Aside from that, the code is clean, easy to read, and all styling is well-organized in the CSS. Overall, well done!
 
 ____________________________________________________________________________________________________________
 
